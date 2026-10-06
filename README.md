@@ -29,3 +29,5 @@ It then:
 4. Sends UDP packets to each port.
 5. Displays ports that respond or accept connections.
 6. Completes the scan and displays the results.
+
+!!The process would take 6 - 7 minutes to complete the scanning!!
