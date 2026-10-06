@@ -3,7 +3,7 @@ A simple terminal-based port scanner simulator built with python
 
 This project scans ports from 1 to 1024 and checks for open TCP and UDP ports on a target IPv4 address.
 
-## Features
+## What The Code Can Do
 
 - IPv4 address validation
 - TCP port scanning
